@@ -31,11 +31,13 @@ Basically we specify the path to the folder where the Music files exist. In my c
 After that using os and sys I looked through all the files and stored their name i.e file name in an array and then initialised a global var i which represents the index value or the fileArr index.
 
 Ther are total 5 main functions
+
+    
     Main music player : music_core()
     Display management : showOnDisplay()
     Next song : music_next()
     Previous song : music_prev()
     Play / Pause : music_pp()
-
+    
 
 
